@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hyungjoo Ahn Github 👋
+
+I'm Chung Ang University(CAU) student and I'm majoring in Applied Statistics
+
 
 <!--
 **HyungjooAhn1/HyungjooAhn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
