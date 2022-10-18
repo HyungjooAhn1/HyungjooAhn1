@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=HyungjooAhn&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
+
 ### Welcome to my Github
 
 Hello Everyone 👋<br>
@@ -5,7 +7,8 @@ I'm *Chung-Ang Univ.(CAU)* student, majoring in *Applied Statistics*
 
 I enjoy participating in Data Analyzing Competitions.
 
-
+🛠Tech Stach🛠 <br>
+Python
 <!--
 **HyungjooAhn1/HyungjooAhn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
