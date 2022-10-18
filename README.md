@@ -1,6 +1,9 @@
-### Hyungjoo Ahn Github 👋
+### Hyungjoo Ahn Github
 
-I'm Chung Ang University(CAU) student and I'm majoring in Applied Statistics
+Hello Everyone 👋<br>
+I'm *Chung-Ang Univ.(CAU)* student, majoring in *Applied Statistics*
+
+I enjoy participating in Data Analyzing Competitions.
 
 
 <!--
