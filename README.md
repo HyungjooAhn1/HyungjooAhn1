@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=HyungjooAhn&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=230&section=header&text=HYUNJOO,AHN&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <h3 align='center'> Hello Everyone 👋<br>
 I'm Chung-Ang Univ.(CAU) student, majoring in Applied Statistics </h3>
