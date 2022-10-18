@@ -1,4 +1,4 @@
-### Hyungjoo Ahn Github
+### Welcome to my Github
 
 Hello Everyone 👋<br>
 I'm *Chung-Ang Univ.(CAU)* student, majoring in *Applied Statistics*
