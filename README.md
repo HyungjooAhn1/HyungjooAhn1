@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyungjooAhn1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyungjooAhn1)
 
 **✅ solved.ac**
 
